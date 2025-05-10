@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 520fb68c90e1ada40bf2046f24cc18f8
+  m_SerializeEntries:
+  - m_GUID: 16efb553989cf8548ac5469757b4a940
+    m_Address: Assets/ui/unit_ui/imge
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d93185781eb1cee4cbf98a38186d21fc
+    m_Address: Assets/ui/unit_ui/imge/select.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 582bc02eebb96704e8bd3ba38e98e29b
+    m_Address: Assets/ui/unit_ui/imge/no_select.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4b09040b8a0396843a253b0bdbdca291
+    m_Address: Assets/ui/select_Ui/jiantou.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 22338e7563de8a847b8c84205030884e, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 57f397255b58488468e21f8561999331, type: 2}
+    - {fileID: 11400000, guid: 6c7af052731d8c84b892d2f3b136287d, type: 2}
